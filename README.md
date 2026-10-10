@@ -47,16 +47,6 @@ A path editor widget for 2D vector geometry. Supports a pen tool, anchor and han
 
 ![ImVectorEditor](images/vectoreditor.png)
 
-## Install
-
-ImGuizmo can be installed via [vcpkg](https://github.com/microsoft/vcpkg):
-
-```bash
-vcpkg install imguizmo
-```
-
-See the [vcpkg example](vcpkg-example/) for more details.
-
 ## License
 
 ImGuizmo is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
